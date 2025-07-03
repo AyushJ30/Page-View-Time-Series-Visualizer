@@ -27,17 +27,17 @@ This project explores daily page view data from a popular forum between 2016 and
 ### 📅 Line Plot
 Shows daily page views across the full timespan.
 
-![Line Plot](line_plot.png)
+![Line Plot](examples/Figure_1.png)
 
 ### 📊 Monthly Average Bar Plot
 Grouped by year and month to show seasonal usage patterns.
 
-![Bar Plot](bar_plot.png)
+![Bar Plot](examples/Figure_2.png)
 
 ### 📦 Box Plots
 Year-wise and month-wise box plots to highlight data distribution and outliers.
 
-![Box Plots](box_plot.png)
+![Box Plots](examples/Figure_3.png)
 
 ## 🚀 How to Run
 
